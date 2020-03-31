@@ -18,7 +18,4 @@ Analyze the Toxicity of comment's (Data
 ! wget https://www.dropbox.com/s/ggl9krhh6dcwhhz/train.csv
 ! wget https://www.dropbox.com/s/tst2y6mzwzbhxo3/test.csv)
 
-GeeksforGeeks
-ML | Types of Learning – Supervised Learning - GeeksforGeeks
-A Computer Science portal for geeks. It contains well written, well thought and well explained computer science and programming articles, quizzes and...
-Ali Mustufa Shaikh
+https://www.kaggle.com/imspiedy/feature-selection-techniques-and-prediction
